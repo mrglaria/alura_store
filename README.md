@@ -35,5 +35,4 @@ Tras el análisis, se recomendó la venta de la **Tienda 3**.
 ---
 ## Sobre la Autora
 **Micaela Glaria** Bahía Blanca, Argentina.  
-🎓 Estudiante de *Análisis y Gestión de Datos* (UNSL) y *Tecnicatura en Turismo* (UNS).  
-Interesada en Data Analysis, Data Science y procesos de optimización de negocios.
+Estudiante de *Lic. en Análisis y Gestión de Datos* (UNSL) y *Lic. en Turismo* (UNS).  
