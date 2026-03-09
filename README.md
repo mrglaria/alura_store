@@ -1,5 +1,3 @@
-# alura_store
-
 # Alura Store: Análisis Estratégico de Desinversión
 
 ## Descripción del Proyecto
